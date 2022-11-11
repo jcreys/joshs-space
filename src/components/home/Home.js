@@ -9,9 +9,11 @@ function Home() {
     <Page>
       <h1>Hi, I'm Joshua</h1>
       <section className="Intro">
-        <p className="Large">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ✨</p>
+        <p className="Large">I'm a former Systems Engineer  Systems Test Engineer specializing in CBTC systems. So if you live in Toronto and had to take the shuttle instead of the subway due to testing that was probably me and I'm sorry. ✨</p>
 
-        <p className="Large">orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into.</p>
+        <p className="Large">One of my dreams was to be the next Kobe Bryant. But being 5’8 with a jumpshot that lays more bricks than the Toll Brothers, I realized I should stick to my other childhood dream of building out the digital world.  So I saved up, took a 6-month Fullstack bootcamp at Fullstack academy and now I'm here.
+
+</p>
         <section className="Links">
           <LinkComp type="primary" link="http://www.github.com/jcreys">Github</LinkComp>
           <LinkComp type="primary" link="http://www.linkedin.com/in/joshuacreyes">Linkedin</LinkComp>
