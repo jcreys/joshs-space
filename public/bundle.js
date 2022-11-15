@@ -4564,9 +4564,7 @@ function Home() {
     className: "Intro"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "Large"
-  }, "I'm a former Systems Engineer  Systems Test Engineer specializing in CBTC systems. So if you live in Toronto and had to take the shuttle instead of the subway due to testing that was probably me and I'm sorry. \u2728"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "Large"
-  }, "One of my dreams was to be the next Kobe Bryant. But being 5\u20198 with a jumpshot that lays more bricks than the Toll Brothers, I realized I should stick to my other childhood dream of building out the digital world.  So I saved up, took a 6-month Fullstack bootcamp at Fullstack academy and now I'm here."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
+  }, "Former Systems design/test engineer specializing in Communication based Train Control systems. Always interested and excited about the latest developments in high tech and startup companies which led me to the current pursuit of web based software development. "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("section", {
     className: "Links"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_design_system_link_LinkComp__WEBPACK_IMPORTED_MODULE_3__["default"], {
     type: "primary",
